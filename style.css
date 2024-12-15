@@ -1,0 +1,187 @@
+body{
+    margin: 0 auto;
+}
+header{
+    background-image: url(https://img.pikbest.com/wp/202343/color-palette-vibrant-abstract-background-and-texture-colorful-brush-strokes-splash-drops-sweet-in-oil-paint_9988971.jpg!sw800);
+    background-size: cover;
+    height: 390px;
+    text-align: center;
+    align-content: center;
+}
+.d{
+    background-color: aqua;
+}
+.e{
+    background-color: aquamarine;
+}
+.f{
+    background-color: rgb(195, 255, 255);
+}
+
+nav{
+    padding: 15px;
+    background-color: rgb(0, 92, 92);
+    text-align: center;
+    align-content: center;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 29px;
+    text-align: center;
+    align-content: center;
+    color: rgb(255, 255, 255);
+}
+
+button{
+    background-color: rgb(0, 140, 255);
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    color: white;
+}
+
+.hh{
+    background-color: rgb(180, 252, 252);
+    margin-right: 10px;
+    box-shadow: 10px 10px 10px;
+    border-radius: 10px;
+    padding: 15px;
+
+}
+
+section{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+
+.jj{
+    background-color: bisque;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 55px;
+    box-shadow: 8px 8px 8px ;
+}
+/* .jj :hover{
+    background-color: blueviolet;
+    transform: scale(2);
+} */
+
+.container{
+    justify-content: center;
+    padding: 70px;
+    /* text-align: center;*/
+    align-content: center;
+    background-color: rgb(242, 255, 244);
+    display: flex;
+    
+}
+
+.box{
+    background-color: rgb(255, 173, 173);
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    align-content: center;
+    transition-property: all;
+    transition-duration: 2s;
+    border-radius: 20px;
+
+}
+
+.containerr{
+    
+    justify-content: center;
+    padding: 70px;
+    /* text-align: center;*/
+    align-content: center;
+    background-color: rgb(242, 255, 244);
+    display: flex;
+}
+
+.boxx{
+    
+    background-color: rgb(255, 173, 173);
+    width: 490px;
+    height: 490px;
+    
+    text-align: center;
+    align-content: center;
+    transition-property: all;
+    transition-duration: 2s;
+    border-radius: 20px;
+}
+
+
+.containerrr{
+    
+    justify-content: center;
+    padding: 70px;
+    /* text-align: center;*/
+    align-content: center;
+    background-color: rgb(242, 255, 244);
+    display: flex;
+}
+
+.boxxx{
+    
+    background-color: rgb(255, 173, 173);
+    width: 400px;
+    height: 400px;
+    
+    text-align: center;
+    align-content: center;
+    transition-property: all;
+    transition-duration: 2s;
+    border-radius: 20px;
+}
+
+.box:hover{
+    background-color: aqua;
+    transform: scale(2);
+}
+
+.boxx:hover{
+    background-color: aqua;
+    transform: scale(2);
+}
+.boxxx:hover{
+    background-color: aqua;
+    transform: scale(2);
+}
+
+footer{
+    background-color: black;
+    padding: 30px;
+    color: white;
+    margin: 0 auto;
+    left: 0;
+    display: block;
+    
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid white;
+}
+
+th,td,tr{
+    border-collapse: collapse;
+    border: 1px solid white;
+    height: 50px;
+    width: 600px;
+    text-align: center;
+    align-content: center;
+}
+
+.mm{
+    color: white;
+    text-decoration: none;
+}
+.mm a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
